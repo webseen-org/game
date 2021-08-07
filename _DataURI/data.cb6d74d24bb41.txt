@@ -1,1 +1,0 @@
-chrome-extension://jbkdpgdfhmgejckbhpmjmipcojfgjdao/scripts/parser.js
